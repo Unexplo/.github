@@ -8,8 +8,6 @@ We maintain multiple repositories, each focused on a specific AI challenge—fro
 ### 🌐 Open Source & Community
 This organization is built for the curious. Whether you are a developer, a data enthusiast, or an AI researcher, you can contribute "peacefully" to any of our projects.
 
----
-
 ### 🛠️ Quick Links
 - **Discord Community:** [Insert your Link Here]
 - **Contribution Guide:** Check the `CONTRIBUTING.md` in individual repos.
